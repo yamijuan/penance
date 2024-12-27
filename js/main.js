@@ -4,7 +4,7 @@ const challenges = {
   "B": "Cantar boom tapita mm de korn",
   "C": "Tomarse un vaso de agua entero",
   "D": "Tomarse una foto con texto que escoge la persona anterior y estado del whatsapp / FB /Ig lo q más use v: #nohomo",
-  "E": "cantar coro de chopsuey",
+  "E": "cantar algo en ingles (10 - 20 seg)",
   "F": "contar un chiste de más de 20 seg",
   "G": "darle un abrazo a los que queden #nohomo",
   "H": "Narrar dramaticamente las siguientes acciones del que sigue v:",
